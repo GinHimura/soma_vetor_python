@@ -1,2 +1,2 @@
 # soma_vetor_python
- Soma dos numeros do vetor com a média feito em Python
+ Soma dos números de um vetor com sua média feito em Python
